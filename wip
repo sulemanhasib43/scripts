@@ -1,0 +1,2 @@
+# A simple script to get WAN IP in ubuntu
+wget http://ipinfo.io/ip -qO -
